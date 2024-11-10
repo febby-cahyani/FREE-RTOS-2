@@ -14,10 +14,10 @@ Software yang diperlukan :
 
 Cara Kerja :
 - Task FlashGreenLedTa mengontrol LED hijau dengan pola berikut :
-  a. LED Hijau berkedip dengan interval setiap 0.5 detik, dan setelah 8 kali 
+  1. LED Hijau berkedip dengan interval setiap 0.5 detik, dan setelah 8 kali 
      berkedip (total 4 detik), LED akan mati dan task akan masuk ke delay selama 
      6 detik.
-  b. Total periodik untuk task ini adalah 10 detik.
+  2. Total periodik untuk task ini adalah 10 detik.
 - Task FlashRedLedTask mengontrol LED merah dengan pola sebagai berikut :
   a. LED Merah berkedip cepat dengan interval 50ms, dan setelah 10 kali berkedip 
      (total 0.5 detik), LED akan mati dan task akan masuk ke delay selama 1.5 
