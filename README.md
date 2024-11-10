@@ -30,7 +30,8 @@ Pinout Hardware :
 
 Hasil Hardware :
 
-https://github.com/user-attachments/assets/5ae22e63-8946-44ce-b11d-85392a24d17c
+![FreeRTOS2](https://github.com/user-attachments/assets/2faa76ea-e178-46e9-853f-ff6e1f72f110)
+
 
 Setelah program diunggah ke STM32F103C8T6, perangkat akan menampilkan hasil sebagai berikut :
 1. LED Hijau :
