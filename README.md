@@ -30,8 +30,7 @@ Pinout Hardware :
 
 Hasil Hardware :
 
-
-Hasil Keseluruhan :
+https://github.com/user-attachments/assets/5ae22e63-8946-44ce-b11d-85392a24d17c
 
 Setelah program diunggah ke STM32F103C8T6, perangkat akan menampilkan hasil sebagai berikut :
 1. LED Hijau :
