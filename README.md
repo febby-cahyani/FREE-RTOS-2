@@ -19,12 +19,12 @@ Cara Kerja :
      6 detik.
   2. Total periodik untuk task ini adalah 10 detik.
 - Task FlashRedLedTask mengontrol LED merah dengan pola sebagai berikut :
-  a. LED Merah berkedip cepat dengan interval 50ms, dan setelah 10 kali berkedip 
+  1. LED Merah berkedip cepat dengan interval 50ms, dan setelah 10 kali berkedip 
      (total 0.5 detik), LED akan mati dan task akan masuk ke delay selama 1.5 
      detik.
-  b. Total periodik untuk task ini adalah 2 detik.
+  2. Total periodik untuk task ini adalah 2 detik.
 - Prioritas Task :
-  a. Task FlashRedLedTask memiliki prioritas lebih tinggi dari task 
+  1. Task FlashRedLedTask memiliki prioritas lebih tinggi dari task 
      FlashGreenLedTa sehingga akan mem-preempt task hijau ketika dijadwalkan.
 
 Pinout Hardware :
