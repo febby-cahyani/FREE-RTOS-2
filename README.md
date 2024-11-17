@@ -1,6 +1,9 @@
 # FREE-RTOS-2
 Proyek ini menunjukkan penggunaan FreeRTOS pada mikrokontroler STM32F103C8T6 untuk menjalankan beberapa task yang mengontrol LED. Sistem ini terdiri dari dua task utama yang bertanggung jawab untuk menyalakan LED hijau dan merah dengan pola tertentu, serta satu task default tambahan. Setiap fungsi ditangani dalam task terpisah yang dijadwalkan oleh FreeRTOS, sehingga memungkinkan multitasking dalam lingkungan realtime.
 
+Diagram Task :
+![Screenshot 2024-11-17 111316](https://github.com/user-attachments/assets/28d81531-757e-4022-8845-ce1cf9c48da0)
+
 Hardware yang diperlukan :
 1. STM32F103C8T6
 2. LED
